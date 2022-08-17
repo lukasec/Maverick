@@ -1,5 +1,5 @@
 # Maverick <br> 
-This repository contains the paper presenting the algorithm Maverick - developed in my internship as a Machine Learning Engineer at Vela Partners.
+This repository contains the paper presenting the algorithm Maverick that I developed in my internship as a Machine Learning Engineer at Vela Partners.
 The model is published on the AI community [Hugging Face](https://huggingface.co/lukasec/Maverick).
 
 **Abstract** <br>
