@@ -1,6 +1,6 @@
 # Maverick <br> 
 This repository contains the paper presenting the algorithm Maverick - developed in my internship as a Machine Learning Engineer at Vela Partners.
-The model is available on the AI community [Hugging Face](https://huggingface.co/lukasec/Maverick).
+The model is published on the AI community [Hugging Face](https://huggingface.co/lukasec/Maverick).
 
 **Abstract** <br>
 Maverick (MAV) is an AI-enabled algorithm to guide Venture Capital investment by leveraging BERT - the state-of-the-art deep learning model for NLP. Its ultimate goal is to predict the success of early-stage start-ups.
