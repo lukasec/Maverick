@@ -10,5 +10,3 @@ In Venture Capital (VC) there are two types of successful start-ups: those that 
 * **MAV-Midas**  predicts whether a start-up fits current investment trends made by the most successful brand and long-tail investors, thereby taking into account new emerging markets that do not necessarily already have established successful start-ups leading them - ie. start-ups of type 2.<br><br>
 
 Maverick is developed through a transfer learning approach, by fine-tuning a pre-trained BERT model for type 1 and type 2 classification. In this paper we present Maverick, its development, and its performance. Notably, both MAV-Moneyball and MAV-Midas achieve a true positive ratio greater than 70%, which in the context of VC investment is one of the most important evaluation criteria - it is the percentage of successful companies predicted to be successful by Maverick.
-
-If you wish to request access to the repository containing the code used to train and develop Maverick send me an email at [Luka Secilmis](mailto:lukasecilmis@gmail.com?subject=[GitHub]%20Access%20to%20MAV%20code).
